@@ -20,7 +20,7 @@ The raw data contained composite Product ID codes (e.g., 03-JUN-CA). Text functi
 Excel
 =LEFT(A2, 2)
 ```[cite: 1]
-•	Month Extraction (Characters 4 to 6):
+•	Month Extraction (Characters 4 to 3):
 Excel
 =MID(A2, 4, 3)
 ```[cite: 1]
